@@ -1,0 +1,17 @@
+/* common shared link */
+body{
+font-family: 'Open Sans', sans-serif;
+}
+/* style for all button in a website */
+.btn-primary{
+    color: ( #FFF);
+
+font-size: 20px;
+
+font-weight: 700;
+border-radius: 5px;
+background: #FD6E0A;
+border: 0;
+
+
+}
